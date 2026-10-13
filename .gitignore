@@ -1,0 +1,9 @@
+# Artefactos de compilación de .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Archivos temporales de Office
+~$*
